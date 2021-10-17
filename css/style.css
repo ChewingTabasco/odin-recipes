@@ -6,3 +6,9 @@ h1 {
   background-color: rgb(250, 223, 70);
   color: rgb(155, 154, 154);
 }
+.splash-page {
+  height: auto;
+  width: 400px;
+}
+.navbar {
+}
